@@ -7,7 +7,7 @@ Art influences society by shaping our perspective and influencing our sense of s
 ### Approach
 I experimented with and modified SeqGAN and LeakGAN frameworks (both of which are originally unconditional GANs) to condition on artwork image features to generate the final art analysis paragraph. 
 
-I have used and modified code from the following repositories: 
+The implementation of this project is based on code from the following projects: 
 * [SeqGAN-Tensorflow](https://github.com/ChenChengKuan/SeqGAN_tensorflow)
 * [Show_and_Tell](https://github.com/nikhilmaram/Show_and_Tell)
 * [img2poem](https://github.com/bei21/img2poem)
