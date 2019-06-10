@@ -5,7 +5,7 @@ From Pixel to Paragraph: A Deep Artwork Analysis Paragraph Generator
 Art influences society by shaping our perspective and influencing our sense of self. By portraying subject matter with deliberate composition, color scheme, and other stylistic choices, the artist forms emotional connections between artwork and viewer and communicates their vision with the world. The goal of my project is to develop an artificial neural network system that interprets input artwork and generates a passage that describes the objects and other features (ex. color palette) present in the artwork as well as the ideas and emotions the artwork conveys.
 
 ### Approach
-I experimented with and modify SeqGAN and LeakGAN frameworks (both of which are originally unconditional GANs) to condition on artwork image features to generate the final art analysis paragraph. 
+I experimented with and modified SeqGAN and LeakGAN frameworks (both of which are originally unconditional GANs) to condition on artwork image features to generate the final art analysis paragraph. 
 
 I have used and modified code from the following repositories: 
 * [SeqGAN-Tensorflow](https://github.com/ChenChengKuan/SeqGAN_tensorflow)
